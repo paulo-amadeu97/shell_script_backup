@@ -2,7 +2,7 @@
 Este script cria um backup do diretório /home do usuário e verififica se já há um backup criado nos ultimos 7 dias no mesmo diretório destino.
 
 # MODO DE USO
-1 - Após o download do repositório, faça a descompactação do arquivo e dé permissão de execução para o arquivo backup_home.sh
+1 - Após o download do repositório, faça a descompactação do arquivo e dê permissão de execução para o arquivo backup_home.sh
 ```go
 $chmod +x backup_home.sh
 ```
